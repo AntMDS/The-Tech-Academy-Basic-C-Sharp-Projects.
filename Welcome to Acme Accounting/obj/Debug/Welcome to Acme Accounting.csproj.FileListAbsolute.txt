@@ -1,0 +1,8 @@
+B:\Visual studio\Applications\Welcome to Acme Accounting\obj\Debug\Welcome to Acme Accounting.csproj.AssemblyReference.cache
+B:\Visual studio\Applications\Welcome to Acme Accounting\obj\Debug\Welcome to Acme Accounting.csproj.SuggestedBindingRedirects.cache
+B:\Visual studio\Applications\Welcome to Acme Accounting\obj\Debug\Welcome to Acme Accounting.csproj.CoreCompileInputs.cache
+B:\Visual studio\Applications\Welcome to Acme Accounting\bin\Debug\Welcome to Acme Accounting.exe.config
+B:\Visual studio\Applications\Welcome to Acme Accounting\bin\Debug\Welcome to Acme Accounting.exe
+B:\Visual studio\Applications\Welcome to Acme Accounting\bin\Debug\Welcome to Acme Accounting.pdb
+B:\Visual studio\Applications\Welcome to Acme Accounting\obj\Debug\Welcome to Acme Accounting.exe
+B:\Visual studio\Applications\Welcome to Acme Accounting\obj\Debug\Welcome to Acme Accounting.pdb

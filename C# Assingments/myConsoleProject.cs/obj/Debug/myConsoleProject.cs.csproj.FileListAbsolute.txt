@@ -1,0 +1,8 @@
+B:\Visual studio\Applications\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.exe.config
+B:\Visual studio\Applications\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.exe
+B:\Visual studio\Applications\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.pdb
+B:\Visual studio\Applications\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.csproj.AssemblyReference.cache
+B:\Visual studio\Applications\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.csproj.SuggestedBindingRedirects.cache
+B:\Visual studio\Applications\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.csproj.CoreCompileInputs.cache
+B:\Visual studio\Applications\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.exe
+B:\Visual studio\Applications\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.pdb
