@@ -1,0 +1,8 @@
+B:\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math and Comparison Operators\bin\Debug\Math and Comparison Operators.exe.config
+B:\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math and Comparison Operators\bin\Debug\Math and Comparison Operators.exe
+B:\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math and Comparison Operators\bin\Debug\Math and Comparison Operators.pdb
+B:\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math and Comparison Operators\obj\Debug\Math and Comparison Operators.csproj.AssemblyReference.cache
+B:\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math and Comparison Operators\obj\Debug\Math and Comparison Operators.csproj.SuggestedBindingRedirects.cache
+B:\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math and Comparison Operators\obj\Debug\Math and Comparison Operators.csproj.CoreCompileInputs.cache
+B:\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math and Comparison Operators\obj\Debug\Math and Comparison Operators.exe
+B:\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math and Comparison Operators\obj\Debug\Math and Comparison Operators.pdb
