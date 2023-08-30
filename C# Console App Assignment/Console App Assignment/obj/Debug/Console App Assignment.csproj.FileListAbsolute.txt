@@ -1,0 +1,8 @@
+B:\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\C# Console App Assignment\Console App Assignment\bin\Debug\Console App Assignment.exe.config
+B:\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\C# Console App Assignment\Console App Assignment\bin\Debug\Console App Assignment.exe
+B:\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\C# Console App Assignment\Console App Assignment\bin\Debug\Console App Assignment.pdb
+B:\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\C# Console App Assignment\Console App Assignment\obj\Debug\Console App Assignment.csproj.AssemblyReference.cache
+B:\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\C# Console App Assignment\Console App Assignment\obj\Debug\Console App Assignment.csproj.SuggestedBindingRedirects.cache
+B:\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\C# Console App Assignment\Console App Assignment\obj\Debug\Console App Assignment.csproj.CoreCompileInputs.cache
+B:\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\C# Console App Assignment\Console App Assignment\obj\Debug\Console App Assignment.exe
+B:\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\C# Console App Assignment\Console App Assignment\obj\Debug\Console App Assignment.pdb
