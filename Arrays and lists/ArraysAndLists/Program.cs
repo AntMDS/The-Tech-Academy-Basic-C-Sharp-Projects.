@@ -16,7 +16,7 @@ namespace ArraysAndLists
             {
                 try
                 {
-                    Console.WriteLine("Your favourite xolor is " + colorArray[stringSelect]);
+                    Console.WriteLine("Your favourite color is " + colorArray[stringSelect]);
                     validString = true;
                 }
                 catch

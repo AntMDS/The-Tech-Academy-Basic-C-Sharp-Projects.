@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace Console_App_Assignment
@@ -34,6 +35,103 @@ namespace Console_App_Assignment
                 Console.WriteLine("This will no longer go on forever"); //will print "This will no longer go on forever" everytime the loop executes
             }
             Console.ReadLine(); //gives the user time to read the outcome/ they have to input a button to move the code along 
+
+            while (k <= a)
+            {
+                k++;
+                Console.WriteLine("K's current value is " + k);
+            }
+            Console.ReadLine();
+
+
+
+            String[] fruits = { "Apple", "Banana", "Orange", "Apricot", "Peach", "Kiwi", "Mango", "Strawberry", "Blackberry", "Cherries", "Watermelon", "grapes" };
+            Console.WriteLine("Please enter a fruit ");
+            string selectedFruit = Console.ReadLine();
+            bool validFruit = false;
+
+            while (!validFruit)
+            {
+                try
+                {
+                    int selectedIndex = Array.IndexOf(fruits, selectedFruit) + 1;
+                    Console.WriteLine($"The fruit you selected is {selectedFruit} and is our {selectedIndex}");
+                    validFruit = true;
+                }
+                catch
+                {
+                    Console.WriteLine("The fruit you have chosen isnt in our array, please choose another: ");
+                    selectedFruit = Console.ReadLine();
+                }
+            }
+            Console.ReadLine();
+
+            List<string> nameList = new List<string>()
+            {
+                "Dave",
+                "Steve",
+                "john",
+                "Gen",
+                "Edward",
+                "Dave",
+                "Fred",
+                "Shara",
+                "Sasha",
+            };
+
+            Console.WriteLine("please check for names in our contacts, E.G: Dave");
+            string listSelect = Console.ReadLine();
+            bool validSelect = false;
+
+            while (!validSelect)
+            {
+                try
+                {
+                    var matchIndex = 0;
+                    int nameIndex = nameList.IndexOf(listSelect);
+                    for (int b = 0; b < nameList.Count; b++)
+                    {
+                        if (nameList[b] == listSelect)
+                        {
+                            matchIndex = b + 1;
+                            Console.WriteLine($"The name you have chosen is {listSelect} they are found in your {matchIndex} contact");
+                        }
+                    }
+                    validSelect = true;
+                }
+                catch
+                {
+                    Console.WriteLine("That name is not in our contact list, please try again");
+                    listSelect = Console.ReadLine();
+                }
+                Console.ReadLine();
+            }
+
+            List<string> letttersList = new List<string>()
+            {
+                "A",
+                "B",
+                "C",
+                "B",
+                "E",
+            };
+
+            Console.WriteLine("Lets check a list for duplicates:");
+            string letterDuplicate = "";
+            foreach (string letter in letttersList)
+            {
+                if (letttersList.Count != letttersList.Distinct().Count())
+                {
+                    letterDuplicate = "a duplicate";
+                    Console.WriteLine($"{letter} is {letterDuplicate}");
+                }
+                else
+                {
+                    letterDuplicate = "unique";
+
+                }
+            }
+            Console.ReadLine();
         }
     }
 }
