@@ -1,0 +1,5 @@
+B:\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Creating a Game of Blackjack\Casino\obj\Debug\net6.0\Casino.csproj.AssemblyReference.cache
+B:\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Creating a Game of Blackjack\Casino\obj\Debug\net6.0\Casino.GeneratedMSBuildEditorConfig.editorconfig
+B:\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Creating a Game of Blackjack\Casino\obj\Debug\net6.0\Casino.AssemblyInfoInputs.cache
+B:\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Creating a Game of Blackjack\Casino\obj\Debug\net6.0\Casino.AssemblyInfo.cs
+B:\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Creating a Game of Blackjack\Casino\obj\Debug\net6.0\Casino.csproj.CoreCompileInputs.cache
