@@ -1,16 +1,14 @@
 ﻿extern alias Casino;
 using Casino::Casino;
-using Casino::Casino.Blackjack;
+using Casino::Casino.TwentyOne;
 
-namespace BlackJack 
+namespace TwentyOne
 {
     class Program
     {
         static void Main(string[] args)
         {
             const string casinoName = "Grand Castel Casino";
-
-            string text = File.ReadAllText("B:\\Documents\\Logs\\log.txt");
 
             Console.WriteLine("Welcome to the {0} Please enter your name:", casinoName);
             string playerName = Console.ReadLine();

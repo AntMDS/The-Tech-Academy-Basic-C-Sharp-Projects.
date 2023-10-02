@@ -1,4 +1,10 @@
-﻿namespace Casino
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Casino
 {
     public abstract class Game
     {
@@ -7,7 +13,7 @@
 
         public List<Player> Players { get { return _players; } set { _players = value; } }
         public string Name { get; set; }
-        public Dictionary<Player, int> Bets { get { return _bets; } set { _bets = value; } }
+        public Dictionary<Player, int> Bets { get { return _bets;  } set { _bets = value; } }
 
         public abstract void play();
 

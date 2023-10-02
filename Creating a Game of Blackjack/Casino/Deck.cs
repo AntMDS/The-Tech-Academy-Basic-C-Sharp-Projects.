@@ -1,4 +1,11 @@
-﻿namespace Casino
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Casino
 {
     public class Deck
     {
@@ -24,7 +31,7 @@
         }
         public List<Card> Cards { get; set; }
 
-        public void Shuffle(int times = 1)
+        public void Shuffle( int times = 1)
         {
             for (int i = 0; i < times; i++)
             {

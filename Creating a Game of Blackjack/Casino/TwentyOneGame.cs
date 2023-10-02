@@ -1,4 +1,4 @@
-﻿namespace Casino.Blackjack
+﻿namespace Casino.TwentyOne
 {
     public class TwentyOneGame : Game, IWalkAway
     {

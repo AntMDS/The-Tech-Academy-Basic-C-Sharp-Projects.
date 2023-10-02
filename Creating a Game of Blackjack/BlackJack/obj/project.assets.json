@@ -33,9 +33,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "B:\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Creating a Game of Blackjack\\BlackJack\\BlackJack.csproj",
-      "projectName": "BlackJack",
-      "projectPath": "B:\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Creating a Game of Blackjack\\BlackJack\\BlackJack.csproj",
+      "projectUniqueName": "B:\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Creating a Game of Blackjack\\BlackJack\\TwentyOne.csproj",
+      "projectName": "TwentyOne",
+      "projectPath": "B:\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Creating a Game of Blackjack\\BlackJack\\TwentyOne.csproj",
       "packagesPath": "C:\\Users\\BakkaBun\\.nuget\\packages\\",
       "outputPath": "B:\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\Creating a Game of Blackjack\\BlackJack\\obj\\",
       "projectStyle": "PackageReference",
