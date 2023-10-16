@@ -1,0 +1,12 @@
+B:\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Mod 11\StudentDatabaseAssignment\Student database\Student database\obj\Debug\Student database.csproj.AssemblyReference.cache
+B:\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Mod 11\StudentDatabaseAssignment\Student database\Student database\obj\Debug\Student database.csproj.CoreCompileInputs.cache
+B:\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Mod 11\StudentDatabaseAssignment\Student database\Student database\bin\Debug\Student database.exe.config
+B:\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Mod 11\StudentDatabaseAssignment\Student database\Student database\bin\Debug\Student database.exe
+B:\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Mod 11\StudentDatabaseAssignment\Student database\Student database\bin\Debug\Student database.pdb
+B:\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Mod 11\StudentDatabaseAssignment\Student database\Student database\bin\Debug\EntityFramework.dll
+B:\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Mod 11\StudentDatabaseAssignment\Student database\Student database\bin\Debug\EntityFramework.SqlServer.dll
+B:\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Mod 11\StudentDatabaseAssignment\Student database\Student database\bin\Debug\EntityFramework.xml
+B:\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Mod 11\StudentDatabaseAssignment\Student database\Student database\bin\Debug\EntityFramework.SqlServer.xml
+B:\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Mod 11\StudentDatabaseAssignment\Student database\Student database\obj\Debug\Student database.csproj.CopyComplete
+B:\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Mod 11\StudentDatabaseAssignment\Student database\Student database\obj\Debug\Student database.exe
+B:\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Mod 11\StudentDatabaseAssignment\Student database\Student database\obj\Debug\Student database.pdb
