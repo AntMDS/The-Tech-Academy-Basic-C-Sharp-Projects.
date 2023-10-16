@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="StudentdbModelStoreContainer" CdmEntityContainer="StudentdbEntities">
+    <EntitySetMapping Name="Student_Information">
+      <EntityTypeMapping TypeName="StudentdbModel.Student_Information">
+        <MappingFragment StoreEntitySet="Student_Information">
+          <ScalarProperty Name="Removed" ColumnName="Removed" />
+          <ScalarProperty Name="Age" ColumnName="Age" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MSchange_tracking_history">
+      <EntityTypeMapping TypeName="StudentdbModel.MSchange_tracking_history">
+        <MappingFragment StoreEntitySet="MSchange_tracking_history">
+          <ScalarProperty Name="comments" ColumnName="comments" />
+          <ScalarProperty Name="cleanup_version" ColumnName="cleanup_version" />
+          <ScalarProperty Name="rows_cleaned_up" ColumnName="rows_cleaned_up" />
+          <ScalarProperty Name="end_time" ColumnName="end_time" />
+          <ScalarProperty Name="start_time" ColumnName="start_time" />
+          <ScalarProperty Name="table_name" ColumnName="table_name" />
+          <ScalarProperty Name="internal_table_name" ColumnName="internal_table_name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

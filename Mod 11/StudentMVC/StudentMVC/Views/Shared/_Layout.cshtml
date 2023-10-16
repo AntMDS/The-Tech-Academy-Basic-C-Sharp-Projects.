@@ -1,0 +1,16 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>School Database</title>
+    @Scripts.Render("~/Contet/css")
+</head>
+<body>
+    @RenderBody()
+
+    @Scripts.Render("~/Bundle/jquery")
+    @Scripts.Render("~/Bundle/bootstrap")
+    @RenderSection("scriots", required: false)
+</body>
+</html>

@@ -27,6 +27,10 @@
                     validAnswer = int.TryParse(Console.ReadLine(), out bet);
                     if (!validAnswer) Console.WriteLine("Please enter digits only, no decimals");
                 }
+                if (bet < 0)
+                {
+                    throw new FraudException("You have been caught cheating u will now be banned from the Casino!");
+                }
                 bool successfullyBet = player.Bet(bet);
                 if (!successfullyBet)
                 {

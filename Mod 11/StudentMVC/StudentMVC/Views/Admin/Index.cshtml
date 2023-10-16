@@ -1,0 +1,35 @@
+﻿@using StudentMVC.ViewModels
+@model List<StudentAddVm>
+
+<div class="row no-gutters m-3">
+    <div class="card col-sm-12 col-md-10 col-lg-6 mx-auto shadow">
+        <div class="card-header text-center">
+            <h5 class="m-0">Student additions</h5>
+        </div>
+        <div class="card-body">
+            @foreach (var AddStudent in Model)
+            {
+                using(Html.BeginForm("RemoveStudent", "Admin", FormMethod.Post))
+                {
+                    <input type="hidden" name="Id" value="@AddStudent.Id" />
+                    <div class="row">
+                        <div class="col">
+                            @AddStudent.FirstName
+                        </div>
+                        <div class="col">
+                            @AddStudent.LastName
+                        </div>
+                        <div class="col">
+                            @AddStudent.Age
+                        </div>
+                        <div class="col">
+                            <button type="submit" class="btn btn-danger btn-block">
+                                Remove
+                            </button>
+                        </div>
+                    </div>
+                }
+            }
+        </div>
+    </div>
+</div>

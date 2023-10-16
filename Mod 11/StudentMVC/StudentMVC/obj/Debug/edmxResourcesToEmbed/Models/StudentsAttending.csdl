@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="StudentdbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="StudentdbEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Student_Information" EntityType="StudentdbModel.Student_Information" />
+    <EntitySet Name="MSchange_tracking_history" EntityType="StudentdbModel.MSchange_tracking_history" />
+  </EntityContainer>
+  <EntityType Name="Student_Information">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="FirstName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="LastName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Age" Type="String" FixedLength="false" Unicode="false" MaxLength="50" />
+    <Property Name="Removed" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityType Name="MSchange_tracking_history">
+    <Key>
+      <PropertyRef Name="internal_table_name" />
+      <PropertyRef Name="table_name" />
+      <PropertyRef Name="start_time" />
+      <PropertyRef Name="end_time" />
+      <PropertyRef Name="rows_cleaned_up" />
+      <PropertyRef Name="cleanup_version" />
+      <PropertyRef Name="comments" />
+    </Key>
+    <Property Name="internal_table_name" Type="String" Nullable="false" MaxLength="128" FixedLength="false" Unicode="true" />
+    <Property Name="table_name" Type="String" Nullable="false" MaxLength="128" FixedLength="false" Unicode="true" />
+    <Property Name="start_time" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="end_time" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="rows_cleaned_up" Type="Int64" Nullable="false" />
+    <Property Name="cleanup_version" Type="Int64" Nullable="false" />
+    <Property Name="comments" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+</Schema>

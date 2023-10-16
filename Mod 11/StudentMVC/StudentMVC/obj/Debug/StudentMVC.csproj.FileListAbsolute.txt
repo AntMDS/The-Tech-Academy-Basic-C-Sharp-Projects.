@@ -1,0 +1,2 @@
+B:\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Mod 11\StudentMVC\StudentMVC\obj\Debug\StudentMVC.csproj.AssemblyReference.cache
+B:\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Mod 11\StudentMVC\StudentMVC\obj\Debug\StudentMVC.csproj.CoreCompileInputs.cache
