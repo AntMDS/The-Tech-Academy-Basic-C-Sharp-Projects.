@@ -15,7 +15,7 @@ A database car insureance database that also calcualtes a quote for the customer
 <h3>Student Database</h3>
 A simple student database that students can be added too and removed from
 
-<h3>Daily report/h3>
+<h3>Daily report</h3>
 A daily report 
 
 <h3>Game of Blackjack</h3>
